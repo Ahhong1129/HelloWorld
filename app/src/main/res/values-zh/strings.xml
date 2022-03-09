@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">你好世界</string>
+    <string name="click_me">点我</string>
+    <string name="btn_1">1</string>
+    <string name="btn_2">2</string>
+    <string name="exit">退出</string>
+    <string name="hello">你好 x %d</string>
+    <string name="toast">莉莎说你好</string>
+    <string name="snackbar">莉莎说么么哒</string>
+
+</resources>
